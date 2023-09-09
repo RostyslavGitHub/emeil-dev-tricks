@@ -1,0 +1,20 @@
+// Please refer to the wiki's repository for an in-depth exploration of HTML Email Class Implementation. 
+// Here, I provide a concise example:
+
+<style>
+@media screen and (min-width: 600px) {
+  .color-blue {
+    color: blue !important;
+  }
+}
+</style>
+
+<table>
+  <tr>
+    <td>
+      <p class="color-blue" style="color: red;">
+        Hello, world!
+      </p>
+    </td>
+  </tr>
+</table>
