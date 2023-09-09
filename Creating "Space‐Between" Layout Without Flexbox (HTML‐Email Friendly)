@@ -1,0 +1,27 @@
+Example #1:
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left;">
+      <div>
+        item1
+      </div>
+    </td>
+    <td style="text-align: right;">
+      <div>
+        item2
+      </div>
+    </td>
+  </tr>
+</table>
+
+Example #2:
+
+<div style="width: 100%;">
+  <div style="display: table-cell; text-align: left;">
+    item1
+  </div>
+  <div style="display: table-cell; text-align: right;">
+    item2
+  </div>
+</div>
